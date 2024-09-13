@@ -1,0 +1,10 @@
+Z:\lab4_wf\lab4_wf\lab4_wf\bin\Debug\lab4_wf.exe.config
+Z:\lab4_wf\lab4_wf\lab4_wf\bin\Debug\lab4_wf.exe
+Z:\lab4_wf\lab4_wf\lab4_wf\bin\Debug\lab4_wf.pdb
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.csproj.AssemblyReference.cache
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.Form1.resources
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.Properties.Resources.resources
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.csproj.GenerateResource.cache
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.csproj.CoreCompileInputs.cache
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.exe
+Z:\lab4_wf\lab4_wf\lab4_wf\obj\Debug\lab4_wf.pdb
